@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: white;
+}
+
+{
+
+}
+
+nav{
+   
+}
+
+nav a {
+   
+}
+
+.main_img{
+    width: 100%;
+    height: 30%;
+}
+
+h1 {
+    font-size: 36px;
+    color: red;
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+
+footer {
+    background-color: white;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+ }
+
+footer a {
+
+}
