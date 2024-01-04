@@ -4,6 +4,7 @@ body {
 
 header {
     background-color: white;
+    padding:5px;
 }
 
 .logo { 
@@ -13,11 +14,14 @@ height:167px;
 }
 
 nav{
-   
+margin:10px 0px;
+padding-right:60px;
 }
 
 nav a {
-   
+text-decoration:none;
+padding-right:60px;
+color:black;
 }
 
 .main_img{
@@ -45,5 +49,11 @@ footer p {
  }
 
 footer a {
+background:red;
+color:white;
+text-decoration:none;
+font-size:16px;
+padding:10px 25px;
+border-radius:10px;
 
 }
